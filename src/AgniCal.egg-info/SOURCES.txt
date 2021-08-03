@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/AgniCal.egg-info/PKG-INFO
+src/AgniCal.egg-info/SOURCES.txt
+src/AgniCal.egg-info/dependency_links.txt
+src/AgniCal.egg-info/not-zip-safe
+src/AgniCal.egg-info/top_level.txt
+src/agnicalculator/__init__.py

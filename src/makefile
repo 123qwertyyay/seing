@@ -5,7 +5,7 @@
 # Date created: 9/29/17
 #
 
-CC = g++
+CC = g++-11
 DEBUG = -g
 CFLAGS = -Wall -c $(DEBUG)
 LFLAGS = -Wall $(DEBUG)
