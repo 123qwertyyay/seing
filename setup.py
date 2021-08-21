@@ -66,7 +66,7 @@ class CMakeBuild(build_ext):
         print()  # Add an empty line for cleaner output
 
 setup(
-    name='agnicalculato',
+    name='seing4python',
     version='0.1',
     author='M',
     
